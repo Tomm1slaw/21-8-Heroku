@@ -6,7 +6,7 @@
   "scripts": {
 	"start": "node server.js"	
   },
-  "author": "Tomasz Sokalski",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.3.4"
